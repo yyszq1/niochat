@@ -1,13 +1,10 @@
-package com.example.niochat.server;
+package com.example.niochat.nio;
 
 import com.example.niochat.commen.MessageChangeUtils;
 import com.example.niochat.commen.MessageInfo;
 import com.example.niochat.commen.Port;
 import lombok.Data;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;

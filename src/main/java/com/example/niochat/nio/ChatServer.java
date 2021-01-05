@@ -1,4 +1,4 @@
-package com.example.niochat.server;
+package com.example.niochat.nio;
 
 import com.example.niochat.commen.MessageChangeUtils;
 import com.example.niochat.commen.MessageInfo;
